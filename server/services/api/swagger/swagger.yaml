@@ -1,0 +1,100 @@
+swagger: "2.0"
+info:
+  version: "0.0.1"
+  title: Hello World App
+# during dev, should point to your local machine
+host: localhost:9001
+# basePath prefixes all resource paths 
+basePath: /api/v1
+# 
+schemes:
+  # tip: remove http to make production-grade
+  - http
+  - https
+# format of bodies a client can send (Content-Type)
+consumes:
+  - application/json
+# format of the responses to the client (Accepts)
+produces:
+  - application/json
+paths:
+  /news:
+    # binds a127 app logic to a route
+    x-swagger-router-controller: news
+    get:
+      description: 返回新闻列表
+      # used as the method name of the controller
+      operationId: list
+      parameters:
+        - name: page
+          in: query
+          description: 列表的页码, 默认是1
+          required: false
+          type: number
+      responses:
+        "200":
+          description: Success
+          schema:
+            # a pointer to a definition
+            $ref: "#/definitions/NewsListItemResponse"
+        # responses may fall through to errors
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /news/{id}:
+    # binds a127 app logic to a route
+    x-swagger-router-controller: news
+    get:
+      description: 返回新闻详情
+      # used as the method name of the controller
+      operationId: detail
+      parameters:
+        - name: id
+          in: path
+          description: 请求的新闻id
+          required: true
+          type: string
+      responses:
+        "200":
+          description: Success
+          schema:
+            # a pointer to a definition
+            $ref: "#/definitions/NewsDetailResponse"
+        # responses may fall through to errors
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /swagger:
+    x-swagger-pipe: swagger_raw
+# complex objects have schema definitions
+definitions:
+  NewsListItemResponse:
+    properties:
+      title:
+        type: string
+      img:
+        type: string
+      desc:
+        type: string
+      publishTime:
+        type: string
+      detailId:
+        type: string
+  NewsDetailResponse:
+    properties:
+      title:
+        type: string
+      publishTime:
+        type: string
+      source:
+        type: string
+      content:
+        type: string
+  ErrorResponse:
+    required:
+      - message
+    properties:
+      message:
+        type: string

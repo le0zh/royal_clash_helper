@@ -1,6 +1,7 @@
 # API服务:
 
-| 请求地址 | HTTP方法 | 说明 |
+
+| Command | Description |
 | --- | --- |
-| `/api/v1/news?page=1` | GET | 返回新闻列表 |
-| `/api/v1/news/{id}` | GET | 返回新闻详情 |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |

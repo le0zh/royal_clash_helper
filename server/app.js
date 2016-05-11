@@ -116,7 +116,7 @@ function fetchNewsDetail(listItem) {
 	});
 }
 
-fetchNewsList(3);
+fetchNewsList(1);
 
 // superagent.get('http://cr.17173.com/content/04122016/101255146.shtml').end((err, res) => {
 // 	if (err) {

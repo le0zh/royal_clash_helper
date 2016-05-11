@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.21.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="771892705d7958ec5a294a103a0e52e7f8d0bdc0">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\classes-ce1ac667c7f6851e4c28e414f05bab20c799b4f1.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\classes-d26d95f519af1c8af5b9844d8edb2dbcf06e9bd0.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\classes-f9ef99009a6fdc2d32739b193edcdaa70e352426.jar" />
+    </item>
+    <item
+        jar="C:\Users\xinliang\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-ff6462d83385cc2fdab14d9b3d7a9d8336503a81.jar" />
+    </item>
+    <item
+        jar="C:\Users\xinliang\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3-69e41325f3bac6cae273b633837b46e94533e074.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\classes-2e6b941dcfe511887e74e0daa8117b483ad4c1bd.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\classes-50bbf03ad7a308dc6438cfcb1118f1fe0069e07a.jar" />
+    </item>
+    <item
+        jar="C:\Users\xinliang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-fa7bdf7db803116ee0f26eba956c4a62b9b2d9f0.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\classes-ca84ccd4e84eb97863d54277d105fafb6b5c13cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\xinliang\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-339c7cf817272994a08f2b07a5f42b93098bd641.jar" />
+    </item>
+    <item
+        jar="C:\Users\xinliang\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\okio-1.6.0-c0fc6b175d1ec883f3612416857d86e94e26b215.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\LogApp2\react-native-jpush\unspecified\jars\libs\jpush-android-2.0.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2c821a0d13219a2e70490085c390bab03fb5953">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\jpush-android-2.0.5-0cd099315fc8d41f8fdc802c1ec092441b56142e.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\classes-0a8298389019b708ebbed76472c5901311cdecf6.jar" />
+    </item>
+    <item
+        jar="C:\Users\xinliang\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.2.0\1d6cdb8ce8185b8b23213fad48a83987fb6d2d67\stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\stetho-1.2.0-3b9df573c310305a37decffbda20ef866dd4e85a.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-fc7b42d77c2619e9fa77582ab9d855d29f38d0eb.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\classes-696da5b40f316ac2cdd4fc91b82e5222af61c8a5.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\classes-d6240b1f053a5f0c9a64d05b68fbe4995c68fa1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\xinliang\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho-okhttp\1.2.0\6c5c9380e245c4ff5be2b2a49dcbb0200c39798e\stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\stetho-okhttp-1.2.0-78b55b12bbce976d8e588b3eda764e5e34a657dc.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.21.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ed5dc2d162c6a24aeaeb765bca63e2ee5171f8e">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-ae9f63469f16bfc96fec0827345c4793290bb5e6.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\classes-01340308144bc5db933d4774dbda57569a1ed4ad.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\classes-091bf26cdc39be3fcc69bbc6668ced6fc9a9a8fe.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\classes-41c58fd80c0bf685315bba13a3981611f92e135b.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.21.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="771892705d7958ec5a294a103a0e52e7f8d0bdc0">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\classes-32daa89c70eba8dbf96843c0c785136e96a519e5.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\classes-db5e30300a202cec64b6eb617b33cfb6b7d1a57e.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\LogApp2\react-native-jpush\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="076784fc376caab970962b952f2d7be4ea636e6e">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\classes-cf1bbbe0addcee2e3a9c8cfd02b409e88604e08b.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\classes-69cf39a971eba2a0423352d0b8f0b5a72315100a.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\classes-bdfe2b105636dcdc987be3b4e7d2844ad9f6528e.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\LogApp2\react-native-jpush\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6842ae5ba412433876ba643d3bffa0d86b716b9">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\classes-9034955bb03d233e45e8de83faaf6d9ff71eac39.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-b0826bbbfa7c79bf11b19068b6c801fe033084a8.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp\0.8.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\classes-e9de5035e33b6777f826223ed2b6d14afbb4a2df.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\classes-744c6a0ab62cadebf4712ba4f6bb5ba3128e4080.jar" />
+    </item>
+    <item
+        jar="C:\Users\xinliang\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-bf081ccebed3a8a1d397f7e00c945d64f8143ded.jar" />
+    </item>
+    <item
+        jar="C:\Users\xinliang\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\commons-cli-1.2-7ee2e714f19a51d5ee2055cb05780e0e41655d41.jar" />
+    </item>
+    <item
+        jar="C:\Users\xinliang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.5.0\e9753b7dcae5deca92e871c5c759067070b07bc\okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.5.0-9279f9fb3ecd8bb5cf2e4ccca9712d1af3852495.jar" />
+    </item>
+    <item
+        jar="D:\working\royal_clash_helper\app\android\app\build\intermediates\exploded-aar\LogApp2\react-native-jpush\unspecified\jars\libs\jpush-android-2.0.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2c821a0d13219a2e70490085c390bab03fb5953">
+        <dex dex="D:\working\royal_clash_helper\app\android\app\build\intermediates\pre-dexed\debug\jpush-android-2.0.5-dd99224e32615abd0103df7c06f1bcc16e369156.jar" />
+    </item>
+    <item
+        jar="C:\Users\xinliang\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-7da32a5da397957c18c33b2f4072f5268b52cbc3.jar" />
+    </item>
+    <item
+        jar="G:\myProject\react\LogApp2\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.21.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ed5dc2d162c6a24aeaeb765bca63e2ee5171f8e">
+        <dex dex="G:\myProject\react\LogApp2\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-eb598b332f87ee57295793227317383cfa3e7748.jar" />
+    </item>
+
+</items>
